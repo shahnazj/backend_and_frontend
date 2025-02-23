@@ -1,0 +1,5 @@
+To run the project cd to ProjectManagerAppAPI
+and the enter dotnet run
+off course we need an sql-server set up and the configuration for connection should be entered in appsettings.json
+for the front-end to communicate with backend change the BASE_URL at my-api-ui/src/api.js according to the exposed port of backend.
+swagger is also available at localhost:port/swagger/index.html

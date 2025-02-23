@@ -1,0 +1,3 @@
+To run the project cd to my-api-ui
+and the enter npm run dev
+for the front-end to communicate with backend change the BASE_URL at /src/api.js according to the exposed port of backend.

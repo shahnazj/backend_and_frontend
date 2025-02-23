@@ -1,0 +1,4 @@
+npm create vite@latest my-api-ui --template react
+cd my-api-ui
+npm install
+npm install axios
