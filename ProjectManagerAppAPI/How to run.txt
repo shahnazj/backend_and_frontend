@@ -1,3 +1,8 @@
+A deployed version of app is running at http://13.51.64.60/
+The swagger is also available at http://13.51.64.60:5000/swagger/index.html
+I keep the servers up and running for 2 weeks.
+
+
 To run the project cd to my-api-ui
 and the enter npm run dev
 for the front-end to communicate with backend change the BASE_URL at /src/api.js according to the exposed port of backend.
